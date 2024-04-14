@@ -14,12 +14,12 @@
     <fragment
         android:id="@+id/nav_gallery"
         android:name="ict.ihu.gr.metadataphotomanager.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
+        android:label="Add Meta Data"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_slideshow"
         android:name="ict.ihu.gr.metadataphotomanager.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:label="Search and Filter"
         tools:layout="@layout/fragment_slideshow" />
 </navigation>
